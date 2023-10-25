@@ -26,4 +26,4 @@ Ce projet vise à créer le site web FashionHub en utilisant HTML, CSS et JavaSc
 - Pour visualiser le projet, ouvrez simplement les fichiers HTML dans un navigateur web.
 
 ## Auteur
-- [Votre nom]
+- othman SALAHEDDINE
